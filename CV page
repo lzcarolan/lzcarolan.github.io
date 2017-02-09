@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lizzie Carolan</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Curriculm Vitae </h1>
+				<p> Here is my full <a href=""CV</a>,</p>. <a href="/about">Read more about my life...</a></p>
+        <h2> Recent publications </h2>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:lzcarolan@gmail.com">email</a></li>
+        		<li><a href="https://lzcarolan.github.io">lzcarolan.github.io</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
